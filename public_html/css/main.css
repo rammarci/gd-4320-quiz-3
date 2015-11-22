@@ -94,7 +94,7 @@ blockquote{
 header{
   margin: 0 0 1.250rem 0;
   height: 3.438rem;
-  box-shadow: 0 0 1px rgba(0,0,0,0.15);
+  box-shadow: 0 0 1px rgba(0,0,0,0,0.15);
 }
 
 article p:last-child{
@@ -109,13 +109,13 @@ nav ul{
   list-style: none;
   padding: 0;
   margin: 0;
-}
+
 
 nav ul li{
-  float: left;
+  float: center;
   width: 33vw;
   display: block;
-  text-align: center;
+  textAlign: center;
   padding: 1rem 0;
 }
 
@@ -162,7 +162,7 @@ footer ul li a{
   display: none;
 }
 
-@media only screen and (min-width: 40.625em) {
+@@media only screen and (min-width: 40.625em) {
 
   nav ul li{
     width: auto;
