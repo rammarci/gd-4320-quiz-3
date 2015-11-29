@@ -17,6 +17,9 @@ The site design is based on medium.com if you want a hint on how the site looks.
 5. ???
 6. [Profit!](https://www.youtube.com/watch?v=tO5sxLapAts)
 
+
+*If your not positive I received the pull request email me.*
+
 ## Quiz 3
 
   * 5 Errors in the base HTML file (index.html)
